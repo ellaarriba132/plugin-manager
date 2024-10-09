@@ -856,16 +856,16 @@
       "external_url": "",
       "authors": [
         {
-          "name": "Droopy",
+          "name": "Droopy & Pato",
           "email": "",
-          "discord": "droopy25"
+          "discord": "iam_acz"
         }
       ],
       "versions": {
-        "4.0.0": {
-          "api_version": 7,
+        "5.1.0": {
+          "api_version": 8,
           "commit_sha": "a23e8cd",
-          "released_on": "04-10-2022",
+          "released_on": "01-10-2024",
           "md5sum": "7da7fae6ddf2560789bbef56f4ff5bd6"
         }
       }
